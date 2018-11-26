@@ -6,7 +6,7 @@ This is a simple bot that allows you to fish via Telegram. This is only working/
 ## Usage:
 
 0. First install the requirements, ```pip install -r requirements.txt```
-0. Then run the program ```python3 src/main.py <key that is bound to fishing> <(y/n -- defaults to no) whether or not to send screenshots after fishing attempts>
+0. Then run the program ```python3 src/main.py <key that is bound to fishing> <(y/n -- defaults to no) whether or not to send screenshots after fishing attempts>```
 
 
 ## Commands:
