@@ -3,3 +3,6 @@ python-telegram-bot
 
 # Keyboard Input framework
 pynput
+
+# Screenshot framework
+mss
